@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(159, 133, 46);
+    color: black;
+    font-family: Arial, sans-serif;
+}
+ul{
+    padding: 5px;
+    margin: 0px 0px 10px 10px;
+}
+button{
+    background-color:rgb(180, 163, 108);
+}
+
+input{
+    background-color:rgb(180, 163, 108);   
+}
+
+#title{
+    margin: 0px;
+    font-family: sarif;
+    font-style: bold;
+    font-size: 40px;
+}
+
+
+#little-caesar{
+    width: 40px;
+    margin: 0px 5px 0px 0px;
+    padding: 0px;
+}
+
+textarea {
+    margin: 5px 0px 0px 0px;
+    width: 720px;
+    height: 200px;
+    background-color:#eeda99;
+    font-size: 20px;
+}

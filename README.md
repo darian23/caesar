@@ -1,0 +1,1 @@
+Implentation of a Caesar cipher in JavaScript.  It can attempt to guess the key of enciphered text by testing all 26 possible keys and identifying the one which results in the fewest misspellings according to Typo.js.
